@@ -1,0 +1,15 @@
+lan={}
+name=input("enter the friend name: ")
+language=input("enter the language name: ")
+lan.update({name:language})
+name=input("enter the friend name: ")
+language=input("enter the language name: ")
+lan.update({name:language})
+name=input("enter the friend name: ")
+language=input("enter the language name: ")
+lan.update({name:language})
+name=input("enter the friend name: ")
+language=input("enter the language name: ")
+lan.update({name:language})
+print(lan)
+#in dict we use update function to add on dictionary.
